@@ -130,7 +130,7 @@ Publish the website in the LocalHost.
 </html>
 ```
 ## OUTPUT:
-![Screenshot (10)](https://github.com/user-attachments/assets/2655e85e-7f03-4bc2-8367-c195c2f9acef)
+![Screenshot (12)](https://github.com/user-attachments/assets/5741cef1-57f5-4d6b-8f7f-7cbabdac29c0)
 
 
 ## RESULT:
